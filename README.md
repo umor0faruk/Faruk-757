@@ -76,7 +76,7 @@
 
 <a href="https://www.linkedin.com/in/faruk-ahmed-292125174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faruk%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/_fa_ru_k_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_fa_ru_k_-blue?style=flat-square&logo=instagram"></a>
-<a href="farukun785@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farukun785-blue?style=flat-squ
+
 
 </p>
 
